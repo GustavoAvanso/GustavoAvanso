@@ -1,7 +1,5 @@
 # Gustavo-Avanso
 
-# Gustavo Avanso
-
 **`Desenvolvedor FullStack`**
 
 Me chamo Gustavo Avanso, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Mecâtronica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC.
